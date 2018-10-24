@@ -1,0 +1,24 @@
+﻿# Rime dictionary
+# encoding: utf-8
+#
+# Luna Pinyin Extended Dictionary(Chinese&English) - 明月拼音扩充词库（含西文的词汇）
+#
+#   瑾昀 <cokunhui@gmail.com>
+#
+# 部署位置：
+# ~/.config/ibus/rime  (Linux)
+# ~/Library/Rime  (Mac OS)
+# %APPDATA%\Rime  (Windows)
+#
+# 于重新部署后生效
+#
+
+---
+name: zrm2000.extended
+version: "238w"
+sort: original
+use_preset_vocabulary: true
+import_tables:
+  - zrm2000
+  - zrm2000z.super
+...

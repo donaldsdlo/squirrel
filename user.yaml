@@ -1,0 +1,10 @@
+var:
+  option:
+    full_shape: false
+    simplification: false
+  previously_selected_schema: zrm2000
+  schema_access_time:
+    double_pinyin: 1538276259
+    luna_pinyin: 1540187651
+    luna_pinyin_simp: 1535453613
+    zrm2000: 1540187658

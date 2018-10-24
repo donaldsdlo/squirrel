@@ -1,0 +1,9 @@
+patch:
+  schema_list:
+    - {schema: double_pinyin}
+    - {schema: zrm2000}
+    - {schema: luna_pinyin}
+#  "style/font_face": "明兰"  # 字體名稱，從記事本等處的系統字體對話框裏能看到
+#  "style/font_point": 21     # 字號，只認數字的，不認「五號」、「小五」這樣的
+  "menu/page_size": 10  # 定制每页候选字数， 这里是对整个输入法，可以单独针对不同的输入方案
+#  "style/color_scheme": "ink" # 选择配色方案
