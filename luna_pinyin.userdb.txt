@@ -1,0 +1,262 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.2.9
+#@/tick	410
+#@/user_id	bebceec0-400a-43ad-bbbc-57dff6521139
+a 	啊	c=6 d=4.31279 t=410
+a a 	啊啊	c=1 d=1 t=127
+ai 	唉	c=1 d=1 t=297
+an niu 	按鈕	c=1 d=1 t=8
+ba 	吧	c=1 d=1 t=173
+ba 	把	c=0 d=0.1 t=253
+ba zhao pian 	把照片	c=1 d=1 t=254
+bai da 	白搭	c=1 d=1 t=159
+ban ben 	版本	c=4 d=3.37944 t=89
+ban gong shi 	辦公室	c=1 d=1.07558 t=237
+ben lai 	本来	c=1 d=1 t=99
+bi jiao 	比较	c=1 d=1 t=2
+bu 	不	c=5 d=3.08757 t=308
+bu cuo 	不錯	c=2 d=1.93239 t=239
+bu hui 	不會	c=1 d=1 t=83
+cai 	才	c=1 d=1 t=363
+cha bu duo 	差不多	c=1 d=1 t=252
+che piao 	車票	c=1 d=1 t=370
+cheng 	成	c=1 d=1 t=292
+cheng xu 	程序	c=1 d=1 t=246
+chi 	吃	c=1 d=1 t=193
+chi fan 	吃饭	c=1 d=1 t=110
+chu fa 	出發	c=1 d=1 t=187
+cun zai 	存在	c=1 d=1 t=70
+cuo 	錯	c=1 d=1 t=267
+da 	大	c=0 d=0.1 t=361
+da dian hua 	打電話	c=1 d=1 t=209
+da xi pai 	大洗牌	c=1 d=1 t=362
+dai 	呆	c=1 d=1 t=179
+dai 	帶	c=1 d=1 t=105
+dang ran 	當然	c=1 d=1 t=28
+dao 	到	c=2 d=1.85214 t=236
+de 	得	c=1 d=1 t=4
+de 	的	c=34 d=14.9861 t=408
+di fang 	地方	c=1 d=1 t=400
+dian 	點	c=1 d=1 t=262
+dian ji 	點擊	c=1 d=1 t=7
+dong xi 	東西	c=1 d=1.07334 t=186
+dou 	都	c=6 d=4.01995 t=289
+du che 	堵車	c=1 d=1 t=181
+dui ying 	對應	c=1 d=1 t=241
+duo 	多	c=6 d=2.66181 t=386
+duo cai 	多彩	c=1 d=1 t=332
+duo jiu 	多久	c=1 d=1 t=180
+e si 	餓死	c=1 d=1 t=199
+en 	嗯	c=1 d=1 t=201
+er zi 	兒子	c=1 d=1 t=215
+fa bu 	發佈	c=2 d=1.8825 t=86
+fa xian 	發現	c=1 d=1 t=343
+fan zheng 	反正	c=1 d=1 t=259
+fei chang 	非常	c=1 d=1 t=407
+feng fu 	豐富	c=1 d=1 t=331
+feng jing 	風景	c=1 d=0.867206 t=276
+gang 	剛	c=1 d=1 t=208
+gao 	搞	c=1 d=1 t=353
+gao 	高	c=1 d=1 t=53
+ge 	個	c=1 d=1 t=359
+ge zhong ge yang 	各種各樣	c=1 d=1 t=302
+gen 	跟	c=1 d=1 t=337
+gen ni 	跟你	c=0 d=0.1 t=320
+geng 	更	c=1 d=1 t=32
+gong zuo 	工作	c=2 d=1.46301 t=405
+gui ze 	规则	c=1 d=1 t=135
+guo bu qu 	過不去	c=1 d=1 t=334
+guo lai 	過來	c=1 d=1 t=256
+ha 	哈	c=2 d=1.74826 t=234
+ha ha 	哈哈	c=7 d=5.01101 t=285
+hai shi 	還是	c=1 d=1 t=393
+hai zi 	孩子	c=1 d=1 t=160
+hao 	好	c=0 d=0.151944 t=359
+hao 	豪	c=2 d=1.28794 t=371
+hao a 	好啊	c=1 d=1 t=372
+hao chang 	好長	c=1 d=1 t=126
+hao de 	好的	c=1 d=0.565334 t=276
+hao de feng jing 	好的風景	c=1 d=1 t=277
+hao ke ti 	好課題	c=1 d=1 t=360
+hao lu xian 	好路線	c=1 d=1 t=229
+he he 	呵呵	c=1 d=1 t=270
+hen duo 	很多	c=1 d=1 t=395
+hen zhong yao 	很重要	c=1 d=1 t=153
+heng 	橫	c=1 d=1 t=255
+hou 	後	c=3 d=2.50592 t=94
+hou tai 	後臺	c=1 d=1 t=245
+hui 	回	c=1 d=1 t=366
+hui 	會	c=4 d=3.42859 t=82
+hui jia 	回家	c=1 d=1 t=101
+hui zai 	會在	c=1 d=1 t=177
+huo 	或	c=1 d=1 t=63
+huo che piao 	火车票	c=0 d=0.1 t=99
+huo che zhan 	火車站	c=1 d=1 t=171
+huo shao 	或少	c=1 d=1 t=65
+ji dian 	幾點	c=1 d=1 t=202
+ji hui 	機會	c=1 d=1 t=365
+ji nian 	幾年	c=1 d=1 t=340
+jia li 	家裏	c=1 d=1 t=178
+jian du 	监督	c=1 d=1.07531 t=155
+jian yi 	建议	c=1 d=1 t=113
+jie guo 	结果	c=1 d=1 t=103
+jin tian 	今天	c=4 d=2.66837 t=403
+jing xiang 	鏡像	c=3 d=2.34494 t=93
+jiu 	就	c=4 d=3.08853 t=324
+jiu shi 	就是	c=2 d=1.82283 t=368
+jiu xia mian 	就下面	c=1 d=1 t=13
+kai 	開	c=1 d=1 t=247
+kan 	坎	c=1 d=1 t=336
+kan 	看	c=2 d=1.62814 t=257
+kan dong 	看懂	c=1 d=1 t=380
+kan kan 	看看	c=2 d=1.47711 t=388
+kan qi lai 	看起來	c=1 d=1 t=128
+ke ti 	課題	c=0 d=0.1 t=359
+ke yong 	可用	c=1 d=1 t=25
+ken ding 	肯定	c=1 d=1 t=382
+kuai dao 	快到	c=1 d=1 t=170
+kuai le 	快樂	c=1 d=1 t=175
+la 	啦	c=1 d=1 t=155
+lai 	來	c=2 d=1.28224 t=311
+lao ban 	老闆	c=3 d=2.74849 t=392
+le 	了	c=16 d=8.71257 t=341
+lei si 	類似	c=1 d=1 t=348
+leng qing 	冷清	c=1 d=1 t=409
+lu xian 	路線	c=0 d=0.1 t=228
+ma 	嗎	c=1 d=1 t=167
+ma de 	妈的	c=1 d=1 t=97
+ma fan 	麻煩	c=1 d=0.596585 t=270
+mai bu dao 	買不到	c=1 d=1 t=369
+mai le 	买了	c=0 d=0.1 t=99
+mai le huo che piao 	买了火车票	c=1 d=1 t=100
+mei 	美	c=1 d=1 t=120
+mei fa zi 	没法子	c=1 d=1 t=144
+mei ge ren dou 	每個人都	c=0 d=0.1 t=320
+mei ge ren dou gen ni yi yang shi cheng 	每個人都跟你一樣實誠	c=1 d=1 t=321
+mei shen me 	没什么	c=1 d=1 t=121
+mei you 	沒有	c=3 d=2.03435 t=333
+mei you 	煤油	c=2 d=1.68729 t=189
+mei you a 	没有啊	c=1 d=1 t=115
+mei you jian du 	沒有监督	c=1 d=1 t=156
+men 	們	c=1 d=1 t=161
+ming cheng 	名稱	c=1 d=1 t=23
+ming ling 	命令	c=1 d=1 t=44
+mo te 	模特	c=1 d=1 t=296
+na 	那	c=1 d=1 t=197
+na bian 	那边	c=1 d=1 t=118
+na me 	那麼	c=1 d=1 t=261
+ne 	呢	c=2 d=1.64404 t=310
+neng 	能	c=3 d=2.08846 t=379
+ni 	你	c=4 d=2.67225 t=373
+ni ma fan 	你麻煩	c=1 d=1 t=271
+ni men 	你們	c=2 d=1.93239 t=286
+ni zi 	妮子	c=1 d=1 t=212
+o 	哦	c=1 d=1 t=305
+o o 	哦哦	c=1 d=1 t=269
+pai zhao 	拍照	c=1 d=1 t=284
+peng dao 	碰到	c=1 d=1 t=301
+qian mian 	前面	c=1 d=1 t=273
+qian tou 	牽頭	c=1 d=1 t=352
+qing kuang 	情況	c=1 d=1 t=78
+qu 	去	c=4 d=2.97635 t=233
+qu 	曲	c=1 d=1 t=116
+que shi 	確實	c=1 d=1 t=224
+ren 	人	c=2 d=1.89137 t=304
+ren lian 	人臉	c=1 d=1 t=264
+ruan jian 	軟件	c=2 d=1.86936 t=88
+sha 	啥	c=1 d=1 t=157
+shang 	上	c=1 d=1 t=314
+shang wu 	上午	c=1 d=1 t=249
+shen bian 	身邊	c=1 d=1 t=345
+shen fen zheng 	身份證	c=1 d=1 t=106
+shen me 	什麼	c=2 d=1.44043 t=276
+sheng chan 	生產	c=1 d=1 t=73
+sheng huo 	生活	c=2 d=1.86071 t=328
+shi 	是	c=10 d=5.63251 t=383
+shi cheng 	實誠	c=0 d=0.1 t=320
+shi fou 	是否	c=1 d=1 t=243
+shi hou 	時候	c=1 d=1 t=76
+shi jie 	世界	c=2 d=1.95123 t=323
+shi qing 	事情	c=1 d=1 t=146
+shi yong 	使用	c=3 d=2.59722 t=84
+shu liang 	数量	c=1 d=1 t=1
+shui 	誰	c=3 d=2.8557 t=306
+shuo 	說	c=2 d=1.28938 t=307
+shuo ming 	說明	c=1 d=1 t=37
+si kao 	思考	c=1 d=1 t=387
+tai 	太	c=1 d=1 t=325
+tan xun 	探尋	c=1 d=1 t=228
+tao lu 	套路	c=1 d=1 t=391
+wan 	完	c=1 d=1 t=92
+wan shang 	晚上	c=1 d=1 t=109
+wang ji 	忘记	c=1 d=1 t=104
+wei 	爲	c=1 d=1 t=33
+wei le 	爲了	c=1 d=1 t=317
+wei shen me 	爲什麼	c=1 d=1 t=49
+wo 	我	c=2 d=1.48919 t=378
+wo dao 	我到	c=1 d=1.08825 t=206
+wo dao ban gong shi 	我到辦公室	c=1 d=1 t=182
+wo men 	我們	c=3 d=1.60469 t=397
+wu fan 	午飯	c=1 d=1 t=194
+wu liao 	無聊	c=1 d=1 t=326
+xi pai 	洗牌	c=0 d=0.1 t=361
+xi tong 	系統	c=3 d=2.79203 t=74
+xi zao 	洗澡	c=1 d=1 t=214
+xia 	下	c=2 d=1.75201 t=136
+xia mian 	下面	c=0 d=0.1 t=12
+xia zai 	下載	c=3 d=2.61327 t=91
+xian shi 	顯示	c=2 d=1.95123 t=20
+xian zai 	現在	c=1 d=1 t=192
+xiang 	像	c=1 d=1 t=263
+xiang mu 	項目	c=1 d=1 t=350
+xiang xi 	詳細	c=3 d=2.8053 t=34
+xie 	寫	c=1 d=1 t=217
+xin xi 	信息	c=1 d=1 t=12
+xing bu xing 	行不行	c=1 d=1 t=376
+xiu xing 	修行	c=1 d=1 t=318
+xue xi 	學習	c=1 d=1 t=398
+yan jiu 	研究	c=1 d=1 t=355
+yao 	要	c=1 d=1 t=330
+yao shi 	要是	c=1 d=1 t=320
+ye 	也	c=5 d=2.83532 t=357
+ye mian 	頁面	c=1 d=1 t=18
+ye shi 	也是	c=1 d=1 t=143
+yi ban 	一般	c=2 d=1.90484 t=77
+yi ge 	一個	c=1 d=1 t=354
+yi hou 	以後	c=1 d=1 t=230
+yi ji 	以及	c=1 d=1 t=24
+yi qi 	一起	c=3 d=2.34146 t=339
+yi xia 	以下	c=2 d=1.76721 t=96
+yi xie 	一些	c=1 d=1 t=69
+yi yang 	一樣	c=0 d=0.1 t=320
+ying yu 	英語	c=2 d=1.95123 t=385
+yong 	用	c=2 d=1.88692 t=95
+you 	有	c=8 d=4.31625 t=394
+you mei you 	有沒有	c=1 d=1 t=342
+you xiang 	邮箱	c=1 d=1 t=406
+yun si 	暈死	c=0 d=0.1 t=107
+yun si le 	暈死了	c=1 d=1 t=108
+zai 	在	c=5 d=3.49313 t=216
+zai ci 	在此	c=1 d=1 t=40
+zen me 	怎麼	c=1 d=1 t=266
+zhao pian 	照片	c=0 d=0.1 t=253
+zhe 	這	c=3 d=2.34898 t=312
+zhe dong xi 	這東西	c=1 d=1 t=125
+zhe ge 	這個	c=2 d=1.21546 t=322
+zhe li 	這裏	c=1 d=1 t=39
+zhe me 	這麼	c=1 d=1 t=279
+zhe yang 	这样	c=2 d=1.97045 t=139
+zhi dao 	知道	c=1 d=1 t=291
+zhi de 	值得	c=1 d=1 t=396
+zhong 	中	c=1 d=1 t=299
+zhong qiu jie 	中秋節	c=1 d=1 t=174
+zhong shi 	中式	c=1 d=1 t=384
+zhong yao 	重要	c=1 d=1 t=151
+zhu 	豬	c=1 d=1 t=356
+zhuan zhuan 	轉轉	c=1 d=1 t=227
+zhun bei hao 	準備好	c=1 d=1 t=185
+zi ji 	自己	c=1 d=1 t=351
+zui xin 	最新	c=1 d=1 t=85
+zuo ye 	作業	c=1 d=1 t=218
